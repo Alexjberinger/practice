@@ -4,8 +4,7 @@ This is my practice collection for Day 1 of DHSI.
 
 
 -----------------
-=================
-+++++++++++++++++
+
 ## Brief Overview of Building a Collection
 
 The [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) contain detailed information about building a collection from start to finish--including installing software, using Git/GitHub, preparing digital objects, and formatting metadata.
